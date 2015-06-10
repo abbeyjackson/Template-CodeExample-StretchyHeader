@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B5D416D0-26DD-45A2-B244-6BCCC3F0E76C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>StretchMyHeader</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C0C44B52E6095067400295FF45C17499F6A833CE</key>
+		<string>https://github.com/earthabbey/StretchyHeader.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StretchMyHeader.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C0C44B52E6095067400295FF45C17499F6A833CE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/earthabbey/StretchyHeader.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C0C44B52E6095067400295FF45C17499F6A833CE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C0C44B52E6095067400295FF45C17499F6A833CE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StretchMyHeader</string>
+		</dict>
+	</array>
+</dict>
+</plist>
