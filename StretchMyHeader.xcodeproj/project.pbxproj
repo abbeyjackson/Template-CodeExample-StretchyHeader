@@ -17,6 +17,7 @@
 		F681A9F21B2769E20053127A /* PreviewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F681A9F11B2769E20053127A /* PreviewCell.m */; };
 		F681A9F41B2774E40053127A /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F681A9F31B2774E40053127A /* MasterViewController.m */; };
 		F681A9F71B2787C50053127A /* NewsItem.m in Sources */ = {isa = PBXBuildFile; fileRef = F681A9F61B2787C50053127A /* NewsItem.m */; };
+		F681AA2D1B28C1B50053127A /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = F681AA2C1B28C1B50053127A /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F681A9F31B2774E40053127A /* MasterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
 		F681A9F51B2787C50053127A /* NewsItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsItem.h; sourceTree = "<group>"; };
 		F681A9F61B2787C50053127A /* NewsItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsItem.m; sourceTree = "<group>"; };
+		F681AA2C1B28C1B50053127A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 		F681A9C71B2769BC0053127A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F681AA2C1B28C1B50053127A /* README.md */,
 				F681A9C81B2769BC0053127A /* Info.plist */,
 				F681A9C91B2769BC0053127A /* main.m */,
 			);
@@ -237,6 +240,7 @@
 				F681A9F21B2769E20053127A /* PreviewCell.m in Sources */,
 				F681A9CD1B2769BC0053127A /* AppDelegate.m in Sources */,
 				F681A9F41B2774E40053127A /* MasterViewController.m in Sources */,
+				F681AA2D1B28C1B50053127A /* README.md in Sources */,
 				F681A9F71B2787C50053127A /* NewsItem.m in Sources */,
 				F681A9CA1B2769BC0053127A /* main.m in Sources */,
 				F681A9D31B2769BC0053127A /* DetailViewController.m in Sources */,
@@ -434,6 +438,7 @@
 				F681A9EC1B2769BC0053127A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F681A9ED1B2769BC0053127A /* Build configuration list for PBXNativeTarget "StretchMyHeaderTests" */ = {
 			isa = XCConfigurationList;
@@ -442,6 +447,7 @@
 				F681A9EF1B2769BC0053127A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
