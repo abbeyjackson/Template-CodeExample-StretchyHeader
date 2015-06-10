@@ -18,6 +18,7 @@
 		F681A9F41B2774E40053127A /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F681A9F31B2774E40053127A /* MasterViewController.m */; };
 		F681A9F71B2787C50053127A /* NewsItem.m in Sources */ = {isa = PBXBuildFile; fileRef = F681A9F61B2787C50053127A /* NewsItem.m */; };
 		F681AA2D1B28C1B50053127A /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = F681AA2C1B28C1B50053127A /* README.md */; };
+		F681AA2F1B28CAB60053127A /* StretchyHeader.gif in Resources */ = {isa = PBXBuildFile; fileRef = F681AA2E1B28CAB60053127A /* StretchyHeader.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		F681A9F51B2787C50053127A /* NewsItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsItem.h; sourceTree = "<group>"; };
 		F681A9F61B2787C50053127A /* NewsItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsItem.m; sourceTree = "<group>"; };
 		F681AA2C1B28C1B50053127A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F681AA2E1B28CAB60053127A /* StretchyHeader.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = StretchyHeader.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 		F681A9C71B2769BC0053127A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F681AA2E1B28CAB60053127A /* StretchyHeader.gif */,
 				F681AA2C1B28C1B50053127A /* README.md */,
 				F681A9C81B2769BC0053127A /* Info.plist */,
 				F681A9C91B2769BC0053127A /* main.m */,
@@ -218,6 +221,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F681A9D61B2769BC0053127A /* Main.storyboard in Resources */,
+				F681AA2F1B28CAB60053127A /* StretchyHeader.gif in Resources */,
 				F681A9DB1B2769BC0053127A /* LaunchScreen.xib in Resources */,
 				F681A9D81B2769BC0053127A /* Images.xcassets in Resources */,
 			);
